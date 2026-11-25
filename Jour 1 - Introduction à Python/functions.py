@@ -1,4 +1,4 @@
-def pass_word(mot_de_passe_attendu="Quera_Password", tentatives_max=3):
+def pass_word(mot_de_passe_attendu:str="Quera_Password", tentatives_max:int=3):
     
     print("Début de la fontion")
     
